@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm sree satsh 👋
 
-<!--
-**sree-1404/sree-1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Integrated M.Tech Data Science student at VIT AP, from Andhra Pradesh.
 
-Here are some ideas to get you started:
+## What I'm into
+- Machine learning and data analysis
+- Python, SQL, and Octave/MATLAB
+- Cloud and AI (exploring AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+- Coursework projects in data science and applied mathematics
+- Building small projects to practise and share
+
+## Skills
+Python · SQL · Octave · Git · Data Analysis
+
+## Contact
+Reach me through GitHub or LinkedIn.
